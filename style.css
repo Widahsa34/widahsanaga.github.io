@@ -1,0 +1,33 @@
+body {
+  min-height: 3000px;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+#Product {
+  padding-top: 2rem;
+  background-color: rgb(91, 91, 227);
+}
+
+#Product h2 {
+  color: white;
+}
+
+#Promo {
+  background-color: #e2edff;
+}
+
+#Contact {
+  padding-top: 2rem;
+  margin-left: 0%;
+  margin-right: 0%;
+  background-color: rgb(91, 91, 227);
+  background-size: cover;
+}
+
+#Contact h2 {
+  color: white;
+}
